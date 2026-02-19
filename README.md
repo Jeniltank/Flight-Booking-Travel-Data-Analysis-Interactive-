@@ -1,4 +1,4 @@
-✈️ Flight Booking & Travel Data Analysis Dashboard
+✈️ Flight Booking & Travel Data Analysis Dashboard  
 
 This project presents an interactive data analytics dashboard built to uncover meaningful insights from flight booking data. The goal is to transform raw travel data into actionable business intelligence through effective data modeling and visualization.
 
