@@ -21,9 +21,9 @@ This dashboard transforms raw flight booking data into meaningful insights to su
 ---
 
 ## 📸 Dashboard Preview
-
-![Flight Dashboard](./dashboard.png)
-
+<p align="center">
+  <img src="fly.png" alt="Flight Booking Dashboard" width="850"/>
+</p>
 ---
 
 ## 📊 Key Metrics
